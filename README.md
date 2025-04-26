@@ -9,8 +9,8 @@ Projeto de Excel na qual tem objetivo de aprender os conceitos básicos de manip
     - Funcionalidades básicas do Microsoft Excel
     - Cálculos simples em uma planilha
     - Gráficos em suas planilhas
-    ![Imagem da planilha](/images/v1_planilha.png)
-    ![Imagem do gráfico](/images/v1_grafico.png)
+    ![Imagem da planilha](/images/V1_planilha.png)
+    ![Imagem do gráfico](/images/V1_grafico.png)
 - V2
     - Funções `COUNT.SE()` e `MÉDIASE()`
     - Diferença entre `SOMASE()` e `SOMASES()`
