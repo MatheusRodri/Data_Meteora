@@ -20,3 +20,8 @@ Projeto de Excel na qual tem objetivo de aprender os conceitos básicos de manip
     - Uso de gráficos
     - Criação de uma dashboard simples
     ![Imagem da dashboard 2](/images/V3_dash.png)
+- V4
+    - Funções `SEERRO()`, `PROCV()`, `PROCX()`,`CORRESP()`, `ÍNDICE()`,`SES()`
+    - Concatenação de funções
+    - Criação de uma dashboard simples de consultas
+    ![Imagem da dashboard 3](/images/V4.png)
