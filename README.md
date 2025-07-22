@@ -25,3 +25,8 @@ Projeto de Excel na qual tem objetivo de aprender os conceitos básicos de manip
     - Concatenação de funções
     - Criação de uma dashboard simples de consultas
     ![Imagem da dashboard 3](/images/V4.png)
+
+- V5
+    - Uso de tabelas dinâmicas
+    - Criação de uma dashboard simples de tabelas dinâmicas
+    ![Imagem da dashboard 4](/images/V5.png)
