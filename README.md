@@ -30,3 +30,7 @@ Projeto de Excel na qual tem objetivo de aprender os conceitos básicos de manip
     - Uso de tabelas dinâmicas
     - Criação de uma dashboard simples de tabelas dinâmicas
     ![Imagem da dashboard 4](/images/V5.png)
+
+- V6
+    - Automatizando tarefas com o Macros
+    
