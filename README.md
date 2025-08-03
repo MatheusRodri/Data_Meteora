@@ -34,4 +34,4 @@ Projeto de Excel na qual tem objetivo de aprender os conceitos básicos de manip
 - V6
     - Automatizando tarefas com o Macros
     - Uso do filtro avançado
-    
+    ![Imagem da Macro](/images/V6.png)
