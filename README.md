@@ -1,6 +1,6 @@
 # Data_Meteora
 
-Projeto de Excel na qual tem objetivo de aprender os conceitos básicos de manipulação de dados com o Excel, utilizando funções como `PROCV`, `SE`, `CONT.SE`, `SOMASE`, `MÉDIASE`, entre outras.
+Projeto tem o objetivo de documentar o meu aprendizado durante a formação de Excel da Alura, na qual, cada versão representa um módulo.  
 
 ## O projeto consiste em um arquivo Excel com 3 planilhas, sendo elas:
 
